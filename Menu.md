@@ -1,10 +1,13 @@
 # KU Cafe Menu
 
 ## Breakfast
-
-    Item                           Price
-    Fried Grasshoppers (terrible)  -10
-    (use proper Markdown formatting, not literal text like this)
+| Item                     | Price    |
+|:-------------------------|----------|
+| Fried Eggs               | 30       |
+| Omelette Rice            | 40       |
+| Chicken Rice             | 65       |
+| Tom Lued Mu              | 55       |
+| Porridge                 | 45       |
 
 ## Lunch
 | Item                         | Price   |
@@ -27,7 +30,23 @@
 
 ## Night Food
 
+| Item                     | Price    |
+|:-------------------------|----------|
+| French Fries             | 65       |
+| Chicken Wings            | 55       |
+| Hashbrowns               | 65       |
+| Onion Wings              | 55       |
+| Nuggets                  | 75       |
+
 ## Beverages
+
+| Item                     |  Price   |
+|:-------------------------|----------|
+| Berry Magarita           |   120    |
+| Kiwi Magitita            |   120    |
+| Watermelon Squash        |   150    |
+| Soursop Squash           |   150    |
+| Coke                     |    20    |
 
 ---
 
