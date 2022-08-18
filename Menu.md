@@ -18,6 +18,12 @@
 
 ## Beverages
 
+    Item                            Price
+    Berry Magarita                  120
+    Kiwi Magitita                   120
+    Watermelon Squash               150
+    Soursop Squash                  150
+    Coke                             20
 
 
 ---
