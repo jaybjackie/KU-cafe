@@ -1,9 +1,9 @@
 # KU Cafe
 
 [Breakfast](#breakfast)
-[Lanch](#lanch)
+[Lunch](#lunch)
 [Dinner](#dinner)
-[Night Food](#nightfood)
+[Night Food](#night-food)
 [Beverages](#beverages)
 
 ## Breakfast
