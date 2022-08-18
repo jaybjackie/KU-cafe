@@ -20,6 +20,13 @@ Here is how to create a table using Markdown:
 | Gasohol E85 | 32       |
 
 ## Lunch
+| Item                         | Price   |
+|:-----------------------------|---------|
+| Teriyaki Saba                | 359     |
+| Steak & Salmon               | 250     |
+| Beer battered fish&chip      | 399     |
+| Pasta                        | 329     |
+| Mac & Cheese                 | 170     |
 
 ## Dinner
 
@@ -50,3 +57,5 @@ To find out what `|:---` and `---:|` mean, look at one of the Markdown reference
 | Name     | Role        | Github    |
 | :------- | ----------- | --------- |
 | Kollawat | Dinner Menu | @zevenfox |
+| Sittanat | Lunch Menu  | @JaofourthsOhappy |
+| Kodchakan | Beverages | @jaybjackie |

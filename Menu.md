@@ -7,6 +7,13 @@
     (use proper Markdown formatting, not literal text like this)
 
 ## Lunch
+| Item                         | Price   |
+|:-----------------------------|---------|
+| Teriyaki Saba                | 359     |
+| Steak & Salmon               | 250     |
+| Beer battered fish&chip      | 399     |
+| Pasta                        | 329     |
+| Mac & Cheese                 | 170     |
 
 ## Dinner
 
