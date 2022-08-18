@@ -9,7 +9,7 @@
 ## Breakfast
 | Item                     | Price    |
 |:-------------------------|----------|
-| Fried Eggs               | 30       |
+| Fried Eggs               |  30      |
 | Omelette Rice            | 40       |
 | Chicken Rice             | 65       |
 | Tom Lued Mu              | 55       |
