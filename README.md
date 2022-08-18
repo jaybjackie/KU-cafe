@@ -35,6 +35,13 @@ Here is how to create a table using Markdown:
 
 ## Beverages
 
+    Item                            Price
+    Berry Magarita                  120
+    Kiwi Magitita                   120
+    Watermelon Squash               150
+    Soursop Squash                  150
+    Coke                             20
+    
 To find out what `|:---` and `---:|` mean, look at one of the Markdown references in the git-commands assignment
 (or any Markdown summary).
 
