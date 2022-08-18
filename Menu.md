@@ -15,6 +15,13 @@
 
 ## Night Food
 
+| Item                     | Price    |
+|:-------------------------|----------|
+| French Fries             | 65       |
+| Chicken Wings            | 55       |
+| Hashbrowns               | 65       |
+| Onion Wings              | 55       |
+| Nuggets                  | 75       |
 
 ## Beverages
 
